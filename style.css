@@ -1,0 +1,11 @@
+.half-indent {
+    text-indent: 5em; /* Adjust the value as needed */
+    padding-left: 0.5em; /* Adjust the value as needed */
+  }
+
+.fieldset{
+  width: 70;
+  padding: 24px;
+  margin: 10;
+
+}
